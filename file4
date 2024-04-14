@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello from branch branch1.
+=======
+Hello from master
+>>>>>>> 4f533d9 (file4 commit frm master for rebase demo)
