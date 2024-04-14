@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello
 I am in branch1
 Welcome to GIT training.
+=======
+This is file3 from master mian  branch.
+>>>>>>> 3bf6e74 (File 3 is commited from master branch)
